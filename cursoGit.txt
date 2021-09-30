@@ -1,4 +1,8 @@
+VERSION 1
 en Git existen varios comandos, con el que vamos a empezar es con el "git init" el cual nos iniciara un 
 repositorio con una rama llamada master.
 
 Para subir este documento lo haremos con Git commit -m "nombre descritivo de la version"
+
+----VERSION 2----
+estaré creando versiones del mismo documento para poder viajar entre ellas como lo haremos en este momento, para hacerlo usaremos 'git log --oneline' esto nos dará cunos codigos los cuales serán para ponerlos en el 'git checkout codogoDeVersion' para ir a diche version
