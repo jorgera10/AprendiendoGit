@@ -10,3 +10,10 @@ estaré creando versiones del mismo documento para poder viajar entre ellas como
 ---VERSION 3---
 para tener informacion mas detallada solo puedes usar "git log"
 si quieres ver todo puedes usar "git show"
+
+---VERSION 4---
+git nos permite crear ramas o extenciones de nuestro proyecto, estas ramas contendran todos los commits hechos antes pero en el master o rama principal esta no aparecera
+
+git branch: nos permite ver que ramas tengo por el momento
+git branch nombreRama: crea una rama con el nombre que pusimos
+git checkout nombreRama: nos permite viajar entre ramas
