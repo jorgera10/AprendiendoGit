@@ -6,3 +6,7 @@ Para subir este documento lo haremos con Git commit -m "nombre descritivo de la 
 
 ----VERSION 2----
 estaré creando versiones del mismo documento para poder viajar entre ellas como lo haremos en este momento, para hacerlo usaremos 'git log --oneline' esto nos dará cunos codigos los cuales serán para ponerlos en el 'git checkout codogoDeVersion' para ir a diche version. Para regresar al la ultmia version se usa 'git checkout master'
+
+---VERSION 3---
+para tener informacion mas detallada solo puedes usar "git log"
+si quieres ver todo puedes usar "git show"
