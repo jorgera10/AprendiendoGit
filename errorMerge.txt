@@ -22,4 +22,4 @@ git checkout nombreRama: nos permite viajar entre ramas
 ahora que tenemos varias ramas es importante saber que las podemos unir si eso es lo que queremos para esto usaremos git merge (unir), nos debemos posicionar en la rama que queramos y poner git merge nombreRama que queramos unir
 
 ---VERSION 6---
-un clonflicto se genera cuando en las dos ramas que quiero unir hay cambios en la misma linea, asi que git no sabe cual conservar, lo unico que hay que hacer es borrar uno y hacer un commit nuevamente
+un clonflicto se genera cuando en las dos ramas que quiero unir hay cambios en la misma linea, asi que git no sabe cual conservar, lo unico que hay que hacer es borrar uno y hacer un commit nuevamente. este sera el documento erroneo
