@@ -17,3 +17,6 @@ git nos permite crear ramas o extenciones de nuestro proyecto, estas ramas conte
 git branch: nos permite ver que ramas tengo por el momento
 git branch nombreRama: crea una rama con el nombre que pusimos
 git checkout nombreRama: nos permite viajar entre ramas
+
+---VERSION 5---
+ahora que tenemos varias ramas es importante saber que las podemos unir si eso es lo que queremos para esto usaremos git merge (unir), nos debemos posicionar en la rama que queramos y poner git merge nombreRama que queramos unir
